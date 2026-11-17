@@ -162,6 +162,13 @@ For each circuit, record:
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 
+*EXP-1*
+<img width="1188" height="730" alt="image" src="https://github.com/user-attachments/assets/887cbe4d-ea5c-40e3-8b24-9890f8219ce7" />
+I1 ,I2 ,I3 ,I4 ,OUTPUT false,false,false,false,false false,false,false,true ,false false,false,true ,false,false false,false,true ,true ,true false,true ,false,false,false false,true ,false,true ,false false,true ,true ,false ,true false,true ,true ,true ,true true ,false,false,false,false true ,false,false,true ,true true ,false,true ,false,false true ,false,true ,true ,true true ,true ,false,false ,true true ,true ,false,true ,true true ,true ,true ,false ,true true ,true ,true ,true ,false
+
+EXP-2
+
+
 
 
 
