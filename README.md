@@ -138,6 +138,7 @@ F8 = ((A XOR B) & (C XNOR D))
 | 6 | 64 |
 
 Use this format to record the results:
+
 F1 :
 | Inputs | Expected Output | Observed Output | Status |
 |---|---|---|---|
@@ -433,15 +434,37 @@ For each circuit, record:
 
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 
-*EXP-1*
-<img width="1188" height="730" alt="image" src="https://github.com/user-attachments/assets/887cbe4d-ea5c-40e3-8b24-9890f8219ce7" />
-I1 ,I2 ,I3 ,I4 ,OUTPUT false,false,false,false,false false,false,false,true ,false false,false,true ,false,false false,false,true ,true ,true false,true ,false,false,false false,true ,false,true ,false false,true ,true ,false ,true false,true ,true ,true ,true true ,false,false,false,false true ,false,false,true ,true true ,false,true ,false,false true ,false,true ,true ,true true ,true ,false,false ,true true ,true ,false,true ,true true ,true ,true ,false ,true true ,true ,true ,true ,false
+F1 :
 
-EXP-2
+<img width="1600" height="824" alt="image" src="https://github.com/user-attachments/assets/1cf83ba1-8dd3-40c9-9176-0cc422c867c9" />
 
+F2 :
 
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/146916c5-8bc3-4d0d-be0b-e64b4c9e9d8e" />
 
+F3 :
 
+<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/8ae0693f-ed43-48e4-ab69-cd82582da8b8" />
+
+F4 :
+
+<img width="1600" height="803" alt="image" src="https://github.com/user-attachments/assets/246013a1-5593-46bc-a942-2273e1584eed" />
+
+F5 :
+
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/4c667e39-02d8-4cad-ac11-b00300392ae7" />
+
+F6 :
+
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/01906718-9443-4d4b-af35-81b8e467f8f8" />
+
+F7 :
+
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/1e2fd9d0-b076-4c9f-a99e-f04c4933551d" />
+
+F8 :
+
+<img width="1600" height="790" alt="image" src="https://github.com/user-attachments/assets/897b9285-62c7-4fe5-9527-a13d5c3c4898" />
 
  
 ## 8. Result
